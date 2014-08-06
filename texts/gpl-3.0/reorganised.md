@@ -1,5 +1,5 @@
-James C of [Stack Overflow](stackoverflow.com) had this to say about the GPLv3
-over [here](http://stackoverflow.com/questions/805387/what-do-licenses-mean-gpl-mit-cc-etc):
+James C from [Stack Overflow](http://stackoverflow.com) had this to say about
+the GPLv3 over [here](http://stackoverflow.com/questions/805387/what-do-licenses-mean-gpl-mit-cc-etc):
 
     The GPL v3 is a spaghetti licence. Here's my attempt to reorganise it. (The
     numbers in square brackets refer to the original numbers for sections, and
