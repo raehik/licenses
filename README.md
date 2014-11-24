@@ -1,4 +1,4 @@
-lern2license
+lrn2license
 ============
 
 Copyright and licensing is confusing. This is where I store all my resources
